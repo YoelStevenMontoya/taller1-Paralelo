@@ -12,8 +12,7 @@ import os
 import time
 import concurrent.futures
 
-#ESTO ES DE LA PRUEBAA
-N = 20                           # cuantos Fibonacci calculamos: F(0) ... F(N-1)
+N = 20                           # Número de Fibonacci a calcular
 VALORES_PESADOS = list(range(25, 35))   # segunda prueba, con calculos mas costosos
 
 
